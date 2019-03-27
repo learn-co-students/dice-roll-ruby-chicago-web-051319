@@ -5,3 +5,6 @@
 def roll
   # code goes here
 end
+def roll
+  (1..6).to_a.sample
+end
